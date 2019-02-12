@@ -1,6 +1,7 @@
-# Secret Hitler: Pre-game Setup
+# Riot JS I
 
-Introduction to Riot - the BIG OVERVIEW.
-This demo adds some basic riot examples (unrelated) to the base Secret Hitler game to show how Riot works.
+References:
 
-It's actually more useful to look at some of the DEMOS.
+- [Riot Tutorial 01](https://hackmd.io/64Ccy6weSVWTks4rC_9mlg)
+- [Riot Tutorial 02](https://hackmd.io/cHiKcjK9SfWZfdBsjZMcxQ)
+- [Diagrams](https://realtimeboard.com/app/board/o9J_kySr_F8=/)
